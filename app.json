@@ -1,5 +1,5 @@
 {
-      "name": "Evil Bot",
+      "name": "𝑳𝒖𝒄𝒊𝒇𝒆𝒓_𝒃𝒐𝒕",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "Evil"
       ],
     
-   "logo":    "https://telegra.ph/file/2345311d29a66213a9d98.jpg",  
-   "repository": "https://github.com/shrvan42/EvilBot",
+   "logo":    "https://te.legra.ph/file/5d591fdd3871b785a1f62.jpg",  
+   "repository": "https://github.com/Recordu/EvilBot",
    "addons": [
           {
          "options": {
